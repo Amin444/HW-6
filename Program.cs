@@ -6,32 +6,35 @@ namespace Новая_папка
     {
         static void Main(string[] args)
         {
-        //      Console.Write("Введите значение массива:");
-        //     int array = int.Parse(Console.ReadLine());
-        //     int[] N = new int[array];
-        //     int f=0,Max=N[0],Min=N[0],W=0;
-        //     System.Console.WriteLine("Общая сумма всех элементов");
-        //     for (int i = 0; i < array; i++)
-        //     {
-        //         N[i]=i+1;
-        //         f+=N[i];
-        //         Console.WriteLine(f);
-        //             W=f/N[i];
-        //     }
-        //         System.Console.WriteLine("Значение Max and Min");
-        //     for (int i = 0; i < array; i++)
-        //     {
-        //         if(Max<N[i])
-        //         {
-        //             Max = N[i];
-        //         }
-        //         if(Min>N[i]){
-        //             Min = N[i];
-        //         }
+            //  Console.Write("Введите значение массива:");
+            // int array = int.Parse(Console.ReadLine());
+            // int[] N = new int[array];
+            // int f=0,W=0;
+            // System.Console.WriteLine("Общая сумма всех элементов");
+            // for (int i = 0; i < array; i++)
+            // {
+            //     N[i]=i+1;
+            //     f+=N[i];
+            //     Console.WriteLine(f);
+            //         W=f/N[i];
+            // }
+            //     System.Console.WriteLine("Значение Max and Min");
+            //   int Max=N[0],Min=N[0];
+            // for (int i = 0; i < N.Length; i++)
+            // {
+
+            //     if(Min>N[i])
+            //     {
+            //         Min = N[i];
+            //     }
+            //     if(Max<N[i])
+            //     {
+            //         Max = N[i];
+            //     }
+            // }
+            // Console.WriteLine(Max);
+            // Console.WriteLine(Min);
                
-        //     }
-        //     Console.WriteLine(Max);
-        //     Console.WriteLine(Min);
 
         //             System.Console.WriteLine("нечетные значения");
         //      for (int i = 0; i < array; i++)
@@ -55,7 +58,7 @@ namespace Новая_папка
                     // }
                 ////////////////////////////////////////////////////////////////////////
                 
-              System.Console.Write("Введите число:");
+            /*  System.Console.Write("Введите число:");
               int num=int.Parse(Console.ReadLine());
               int[] N=new int[num];
               for (int i = 0; i < num; i++)
@@ -88,7 +91,7 @@ namespace Новая_папка
               foreach (var item in count1)
             {
                 System.Console.WriteLine(item);
-            }
+            }*/
           Console.ReadKey();
         }
 
