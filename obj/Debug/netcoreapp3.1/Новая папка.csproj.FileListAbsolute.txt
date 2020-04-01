@@ -11,3 +11,16 @@ D:\programming\Projects AlifC#\Новая папка\obj\Debug\netcoreapp3.1\Н�
 D:\programming\Projects AlifC#\Новая папка\obj\Debug\netcoreapp3.1\Новая папка.dll
 D:\programming\Projects AlifC#\Новая папка\obj\Debug\netcoreapp3.1\Новая папка.pdb
 D:\programming\Projects AlifC#\Новая папка\obj\Debug\netcoreapp3.1\Новая папка.genruntimeconfig.cache
+D:\programming\Projects AlifC#\HW 6\bin\Debug\netcoreapp3.1\Новая папка.exe
+D:\programming\Projects AlifC#\HW 6\bin\Debug\netcoreapp3.1\Новая папка.deps.json
+D:\programming\Projects AlifC#\HW 6\bin\Debug\netcoreapp3.1\Новая папка.runtimeconfig.json
+D:\programming\Projects AlifC#\HW 6\bin\Debug\netcoreapp3.1\Новая папка.runtimeconfig.dev.json
+D:\programming\Projects AlifC#\HW 6\bin\Debug\netcoreapp3.1\Новая папка.dll
+D:\programming\Projects AlifC#\HW 6\bin\Debug\netcoreapp3.1\Новая папка.pdb
+D:\programming\Projects AlifC#\HW 6\obj\Debug\netcoreapp3.1\Новая папка.csprojAssemblyReference.cache
+D:\programming\Projects AlifC#\HW 6\obj\Debug\netcoreapp3.1\Новая папка.csproj.CoreCompileInputs.cache
+D:\programming\Projects AlifC#\HW 6\obj\Debug\netcoreapp3.1\Новая папка.AssemblyInfoInputs.cache
+D:\programming\Projects AlifC#\HW 6\obj\Debug\netcoreapp3.1\Новая папка.AssemblyInfo.cs
+D:\programming\Projects AlifC#\HW 6\obj\Debug\netcoreapp3.1\Новая папка.dll
+D:\programming\Projects AlifC#\HW 6\obj\Debug\netcoreapp3.1\Новая папка.pdb
+D:\programming\Projects AlifC#\HW 6\obj\Debug\netcoreapp3.1\Новая папка.genruntimeconfig.cache

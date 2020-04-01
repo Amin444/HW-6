@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programming\\Projects AlifC#\\Новая папка\\Новая папка.csproj": {}
+    "D:\\programming\\Projects AlifC#\\HW 6\\Новая папка.csproj": {}
   },
   "projects": {
-    "D:\\programming\\Projects AlifC#\\Новая папка\\Новая папка.csproj": {
+    "D:\\programming\\Projects AlifC#\\HW 6\\Новая папка.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programming\\Projects AlifC#\\Новая папка\\Новая папка.csproj",
+        "projectUniqueName": "D:\\programming\\Projects AlifC#\\HW 6\\Новая папка.csproj",
         "projectName": "Новая папка",
-        "projectPath": "D:\\programming\\Projects AlifC#\\Новая папка\\Новая папка.csproj",
+        "projectPath": "D:\\programming\\Projects AlifC#\\HW 6\\Новая папка.csproj",
         "packagesPath": "C:\\Users\\Amin-ПК\\.nuget\\packages\\",
-        "outputPath": "D:\\programming\\Projects AlifC#\\Новая папка\\obj\\",
+        "outputPath": "D:\\programming\\Projects AlifC#\\HW 6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amin-ПК\\AppData\\Roaming\\NuGet\\NuGet.Config"

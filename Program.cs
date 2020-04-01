@@ -55,7 +55,40 @@ namespace Новая_папка
                     // }
                 ////////////////////////////////////////////////////////////////////////
                 
-                
+              System.Console.Write("Введите число:");
+              int num=int.Parse(Console.ReadLine());
+              int[] N=new int[num];
+              for (int i = 0; i < num; i++)
+              {
+                   int Random = new Random().Next(0, 999);
+                   N[i]=Random;
+              }
+              foreach (int item in N)
+              {
+                  System.Console.WriteLine(item);
+              }
+              System.Console.Write("Введите Index:");
+              int Index=int.Parse(Console.ReadLine());
+            System.Console.Write("count:");
+            int count = int.Parse(Console.ReadLine());
+              int[] count1=new int[count];
+               int count9 = 0;
+              for (int i = Index; i < count + Index; i++)
+              {
+                       if (i <= N.Length-1)
+                {
+                    count1[count9] = N[i];
+                    count9++;
+                }
+                else
+                {
+                    count1[count9] = 1;
+                }
+              }
+              foreach (var item in count1)
+            {
+                System.Console.WriteLine(item);
+            }
           Console.ReadKey();
         }
 
